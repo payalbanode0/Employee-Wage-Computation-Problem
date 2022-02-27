@@ -1,0 +1,16 @@
+C:\Users\Asus\source\repos\UUC2\UUC2\bin\Debug\net5.0\UUC2.exe
+C:\Users\Asus\source\repos\UUC2\UUC2\bin\Debug\net5.0\UUC2.deps.json
+C:\Users\Asus\source\repos\UUC2\UUC2\bin\Debug\net5.0\UUC2.runtimeconfig.json
+C:\Users\Asus\source\repos\UUC2\UUC2\bin\Debug\net5.0\UUC2.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\UUC2\UUC2\bin\Debug\net5.0\UUC2.dll
+C:\Users\Asus\source\repos\UUC2\UUC2\bin\Debug\net5.0\UUC2.pdb
+C:\Users\Asus\source\repos\UUC2\UUC2\obj\Debug\net5.0\UUC2.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\UUC2\UUC2\obj\Debug\net5.0\UUC2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\UUC2\UUC2\obj\Debug\net5.0\UUC2.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\UUC2\UUC2\obj\Debug\net5.0\UUC2.AssemblyInfo.cs
+C:\Users\Asus\source\repos\UUC2\UUC2\obj\Debug\net5.0\UUC2.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\UUC2\UUC2\obj\Debug\net5.0\UUC2.dll
+C:\Users\Asus\source\repos\UUC2\UUC2\obj\Debug\net5.0\refint\UUC2.dll
+C:\Users\Asus\source\repos\UUC2\UUC2\obj\Debug\net5.0\UUC2.pdb
+C:\Users\Asus\source\repos\UUC2\UUC2\obj\Debug\net5.0\UUC2.genruntimeconfig.cache
+C:\Users\Asus\source\repos\UUC2\UUC2\obj\Debug\net5.0\ref\UUC2.dll
